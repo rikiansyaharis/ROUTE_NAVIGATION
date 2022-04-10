@@ -86,7 +86,7 @@ class Side_Bar extends StatelessWidget {
       accountEmail: Text('rikiansyah.aris29@gmail.com'),
       currentAccountPicture: const ClipOval(
         child: Image(
-          image: AssetImage('assets/images/profil.png'),
+          image: AssetImage('assets/images/profil.jpg'),
           fit: BoxFit.cover,
         ),
       ),

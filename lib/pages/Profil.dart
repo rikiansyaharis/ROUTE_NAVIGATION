@@ -27,7 +27,7 @@ class Profil extends StatelessWidget {
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
           const ClipOval(
             child: Image(
-              image: AssetImage('assets/images/profil.png'),
+              image: AssetImage('assets/images/profil.jpg'),
               width: 100.0,
               height: 100.0,
               fit: BoxFit.cover,
